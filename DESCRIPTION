@@ -1,0 +1,11 @@
+Package: math4753ward0018
+Type: Package
+Title: A selection of lab functions
+Version: 0.1.0
+Author: Luke Ward
+Maintainer: Luke Ward <luke.e.ward-1@ou.edu>
+Description: Math 4753 lab functions as produced by Luke Ward
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
